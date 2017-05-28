@@ -1,0 +1,11 @@
+{
+	"name": "react-native-camera-filter",
+	"version": "1.0.0",
+	"description": "A Simple Camera Filter component for React Native.",
+	"author": "Phan Tran Viet",
+	"dependencies": {
+		"react": "16.0.0-alpha.6",
+		"react-native": "0.44.0"
+	},
+	"license": "MIT"
+}
