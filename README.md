@@ -50,6 +50,11 @@ Download project and open example folder
 Run below command
 ```bash
 npm install
+```
+Then copy all file and folder from ```react-native-camera-filter-master``` except ```apk``` folder and ```example``` folder into ```example\node_modules\react-native-camera-filter``` (You need to create new folder name ```react-native-camera-filter``` inside ```example\node_modules```)
+
+After that, run command below
+```bash
 react-native start
 react-native run-android
 ```
